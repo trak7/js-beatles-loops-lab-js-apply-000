@@ -6,5 +6,5 @@ newArray.push(musicians[i] + " plays " + instruments[i]);
 return newArray;
 }
 
-function johnLennonFacts() {
+function johnLennonFacts () {
 }
